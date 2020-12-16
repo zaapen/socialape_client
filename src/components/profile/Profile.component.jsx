@@ -10,7 +10,6 @@ import Button from '@material-ui/core/Button';
 import MuiLink from '@material-ui/core/Link';
 import Typography from '@material-ui/core/Typography';
 import Paper from '@material-ui/core/Paper';
-import KeyboardReturn from '@material-ui/icons/KeyboardReturn';
 import MyButton from '../../util/MyButton';
 
 // Icons
@@ -18,6 +17,7 @@ import LocationOn from '@material-ui/icons/LocationOn';
 import CalendarToday from '@material-ui/icons/CalendarToday';
 import LinkIcon from '@material-ui/icons/Link';
 import EditIcon from '@material-ui/icons/Edit';
+import KeyboardReturn from '@material-ui/icons/KeyboardReturn';
 
 // Redux
 import { connect } from 'react-redux';
